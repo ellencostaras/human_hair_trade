@@ -1,5 +1,6 @@
 {
     "schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Worldwide Trade of Human Hair - Exports per Country (2022) - UN Comtrade Database",
     "width": 800,
     "height": 400,
     "projection": {
