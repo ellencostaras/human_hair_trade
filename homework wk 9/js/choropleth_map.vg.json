@@ -46,7 +46,7 @@
                     "lookup": "properties.NAME",
                     "from": {
                         "data": {
-                            "url": "data/world_hair_trade_data.csv"
+                            "url": "homework wk 9/data/world_hair_trade_data.csv"
                         },
                         "key": "ReporterDesc",
                         "fields": [
